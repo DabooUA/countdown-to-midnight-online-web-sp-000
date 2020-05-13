@@ -1,4 +1,8 @@
 #write your code here
+def seconds
+      return self
+   end
+
 def countdown_with_sleep(sleep)
   sleep 5.seconds
 end
